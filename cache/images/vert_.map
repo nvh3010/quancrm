@@ -1,0 +1,10 @@
+<img src="cache/images/vert_" border="0" usemap="#cache/images/vert_">
+<map name="cache/images/vert_">
+	<area shape="rect" coords="49,41,79,118" href="index.php?module=Accounts&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=4" alt="Organizations=%d" title="Organizations=%d">
+	<area shape="rect" coords="124,62,153,118" href="index.php?module=Potentials&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=10" alt="Opportunities=%d" title="Opportunities=%d">
+	<area shape="rect" coords="199,48,228,118" href="index.php?module=Contacts&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=7" alt="Contacts=%d" title="Contacts=%d">
+	<area shape="rect" coords="273,48,303,118" href="index.php?module=Leads&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=1" alt="Leads=%d" title="Leads=%d">
+	<area shape="rect" coords="348,76,377,118" href="index.php?module=Quotes&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=16" alt="Quotes=%d" title="Quotes=%d">
+	<area shape="rect" coords="423,83,452,118" href="index.php?module=SalesOrder&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=26" alt="Sales Order=%d" title="Sales Order=%d">
+	<area shape="rect" coords="497,111,527,118" href="index.php?module=PurchaseOrder&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=25" alt="Purchase Order=%d" title="Purchase Order=%d">
+</map>
